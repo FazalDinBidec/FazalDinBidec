@@ -34,9 +34,4 @@ I am a passionate **Backend Developer** with hands-on experience in building sca
 ## 🌱 Currently Learning
 - Advanced backend architectures  
 - Performance optimization  
-- Modern JavaScript frameworks  
-
----
-
-## 🤝 Let’s Connect
-Feel free to explore my repositories and reach out for collaboration or opportunities.
+- Modern JavaScript frameworks 
